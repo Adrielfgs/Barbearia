@@ -2,9 +2,10 @@
 
 body {
     margin: 0;
-    background-image: url(/img/img.png);
+    background-image: url(/img/back.gif);
     background-size: cover;
-    backdrop-filter: blur(5px);
+    background-size: cover;
+    backdrop-filter: blur(10px) brightness(50%);
     overflow-x: hidden;
     overflow-y: hidden;
 }
